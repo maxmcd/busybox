@@ -1,0 +1,4 @@
+[URLHashes]
+  "basic_fetch_url https://brmbl.s3.amazonaws.com/busybox-x86_64.tar.gz" = "uw5ichj6dhcccmcts6p7jq6etzlh5baf"
+  "basic_fetch_url https://brmbl.s3.amazonaws.com/url_fetcher.tar.gz" = "p2vbvabkdqckjlm43rf7bfccdseizych"
+  "fetch_url https://brmbl.s3.amazonaws.com/busybox-x86_64.tar.gz" = "uw5ichj6dhcccmcts6p7jq6etzlh5baf"
